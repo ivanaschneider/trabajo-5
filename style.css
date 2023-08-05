@@ -1,0 +1,23 @@
+body{
+
+    
+    background-color: rgb(216, 12, 155);
+}
+header{ border-bottom-width: 60px;color: darksalmon;border-style: double;}
+    
+caption{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    color: black;
+}
+th{
+    font-weight:bold
+    
+}
+th{
+    color: darkmagenta;
+    font-size: 30px;
+}
+tr{
+    font-style: italic;
+}
